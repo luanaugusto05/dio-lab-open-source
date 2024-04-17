@@ -17,8 +17,8 @@ Olá rede!👋
 | Período  | Empresa |
 | ------------- | ------------- |
 | Fevereiro 2024  - Atualmente  | Acal Home Center  |
-| Julho 2022 - Junho 2023  | Gauss Empresa Júnior de Estatística  |
 | Julho 2023 - Janeiro 2024  | Farmácias Pague Menos  |
+| Julho 2022 - Junho 2023  | Gauss Empresa Júnior de Estatística  |
 
 ## Habilidades
 - Análise de dados com R.
