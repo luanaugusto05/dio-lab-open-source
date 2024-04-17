@@ -7,10 +7,10 @@ Olá rede!👋
 - 🏠 Moro em Fortaleza-CE
 - 📚 Cursando 5° semestre do curso de Estatística na Universidade Federal do Ceará - UFC.
 - 🔤 Cursando 5° semestre de inglês.
-- 👨‍💼 Atualmente faço estágio na Acal Home Center no seor de Pricing.
+- 👨‍💼 Atualmente faço estágio na Acal Home Center no setor de Pricing.
 - 💲 Possuo experiência na área de Pricing e varejo.
 - 💼 Sou intusiasta da área de Inteligencia Comercial e de Negócios.
-- 🏖 No meu tempo livre, gosto de conhecer novos lugares e ter novas experiências.
+- 🏖 No meu tempo livre, gosto de viajar.
 
 ## Experiências
 
@@ -27,6 +27,7 @@ Olá rede!👋
 - Visualização de dados com Power BI e Tableau.
 - Inglês pré-intermediário.
 - Pensamento analítico voltado para resolução de problemas.
+- Automação de processos em Python.
 
 ## Conecte-se comigo
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/luan-augusto-994a03166/)
